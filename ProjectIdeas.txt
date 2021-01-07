@@ -3,3 +3,5 @@ This is basically a list of project ideas that I have for my next independant pr
     - Satellite Imagery         - "built up" and "non-built up" classifier for satellite images. 
     - Seismic                   - Automatic Fault Plane Picker from seismic images 
     - Seismic                   - Automatic noise detector (examples to base on -> PGS, ION)
+    - Chess                     - Use data from online chess websites to build a real-time predictor and compare to what the 
+                                  game engine is predicting in real-time.
