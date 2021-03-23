@@ -1,1 +1,0 @@
-The aim of this project is to generate a simple autoencoder to denoise images in the mnist dataset with the hopes to expand the application of the autoencoder to other images and possible seismic data. 
