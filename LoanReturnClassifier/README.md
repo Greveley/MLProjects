@@ -1,4 +1,4 @@
-##Project Description
+# Project Description
 
 Can you predict whether a loan will be paid back or not based on a number of features? 
 
