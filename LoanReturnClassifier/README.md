@@ -6,8 +6,8 @@ This project includes exploratory data analysis, data pre-processing, feature en
 Original data (actual data is the same but the features have been modified slightly to create issues in data preprocessing etc) can be found here -  https://www.kaggle.com/wordsforthewise/lending-club
 
 Models tested on the data include: 
-*Multi-layer artificial neural network
-*Decision Tree Classifier
-*Random Forest Classifier
-*Support Vector Machine
+* Multi-layer artificial neural network
+* Decision Tree Classifier
+* Random Forest Classifier
+* Support Vector Machine
 
